@@ -191,6 +191,7 @@ Mike Porter
 - [Tilak Bhansali](https://github.com/tilak30)
 - [Noman Arshad](https://github.com/nomanarshad94)
 - [JOnathan White](https://github.com/jonathancwhite)
+- [Christian Halsey](https://github.com/halseyc14)
 - [Siddharth Mishra](https://github.com/Hard-Coder05)
 - [Shawn Long](https://github.com/shawnlong636)
 - [Zachary King](https://github.com/lax0248917)
