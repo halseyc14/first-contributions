@@ -793,6 +793,7 @@ StephDigital
 - [Hored Otniel SOSSOU](https://github.com/morten12)
 - [Nurin Fazil](https://github.com/nurinfazil)
 - [Neilzon Viloria](https://github.com/neilZon)
+- Christian Halsey
 - [Rohan Sharma](https://github.com/18rohan)
 - [Sarah Wu](https://github.com/9237sarah)
 - [Sulthan Mohaideen](https://github.com/SulthanNK)
@@ -2915,6 +2916,7 @@ Yogakshi Jaiman
 - [Zoe-KL](https://github.com/zoe-kl)
 - [Sara Maxwell](https://github.com/smaxwell953)
 - [K@fuNet](https://github.com/kafunet)
+- Christian Halsey
 - [Christian Mitch](https://github.com/christian-rwynn/)
 - [Josseline Perdomo](https://github.com/josselineperdomo)
 - [Nesh Ojiambo](https://github.com/neshoj)
